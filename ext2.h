@@ -1,4 +1,4 @@
-/* MODIFIED by Karen Reid for CSC369
+/* MODIFIED by Karen Reid and Ammar Qadri for CSC369
  * to remove some of the unnecessary components */
 
 /*
